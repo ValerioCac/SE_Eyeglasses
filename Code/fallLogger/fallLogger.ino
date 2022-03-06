@@ -8,6 +8,13 @@ Data: 23/12/2021
 
 Si ricorda di configurare il file arduino_secrets.h
 
+MH-SD Module:
+-3.3V = 3.3V
+-10 = CS
+-11 = MOSI
+-12 = MISO
+-13 = SCK
+
 Si ringraziano gli autori dello studio "Optimization of an Accelerometer and Gyroscope-Based Fall Detection Algorithm"
 https://www.hindawi.com/journals/js/2015/452078/
 */
