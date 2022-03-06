@@ -1,2 +1,2 @@
 # SE_Eyeglasses
-Thesis on "Sensor-equipped Eyeglasses" for a computer science degree
+Thesis about "Sensor-equipped Eyeglasses" for a bachelor degree in computer science.
