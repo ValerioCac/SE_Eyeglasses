@@ -8,6 +8,20 @@ Data: 3/02/2022
 
 Si ricorda di configurare il file arduino_secrets.h
 
+Max30102:
+-3.3V = 5V
+-GND = GND
+-SDA = A4 (or SDA)
+-SCL = A5 (or SCL)
+-INT = Not connected
+
+MH-SD Module:
+-3.3V = 3.3V
+-10 = CS
+-11 = MOSI
+-12 = MISO
+-13 = SCK
+
 Si ringrazia SparkFun per l'utilizzo della libreria "SparkFun_MAX3010x_Sensor_Library"
 https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library
 */
