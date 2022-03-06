@@ -109,7 +109,7 @@ void loop(){
     {
         trigger2count++;
         omega = pow(pow(gx,2)+pow(gy,2)+pow(gz,2),0.5); Serial.println(omega);
-        if (omega>=61 && omega<=400)
+        if (omega>=40 && omega<=400)
         { //SOGLIA CRITICA SUPERIORE OMEGA
             trigger3=true; trigger2=false; trigger2count=0;
             Serial.println(omega);
