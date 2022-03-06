@@ -4,6 +4,13 @@ Codice per la lettura della frequenza cardiaca del sensore MAX30102
 Autore: Caciolo Valerio
 Data: 10/01/2022
 
+Max30102:
+-3.3V = 5V
+-GND = GND
+-SDA = A4 (or SDA)
+-SCL = A5 (or SCL)
+-INT = Not connected
+
 Si ringrazia SparkFun per l'utilizzo della libreria "SparkFun_MAX3010x_Sensor_Library"
 https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library
 */
